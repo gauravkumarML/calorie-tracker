@@ -4,7 +4,7 @@ A simple and interactive web app to track your daily calorie and macronutrient i
 
 ## Live App
 
-👉 [Click here to use the app](https://your-name-your-app.streamlit.app)
+👉 [Click here to use the app]([https://your-name-your-app.streamlit.app](https://calorie-tracker-gk.streamlit.app/)
 
 ---
 
